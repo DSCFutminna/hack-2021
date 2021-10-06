@@ -78,7 +78,7 @@ Also don't forget to leave a space after your code, so as to make it easy for ot
                 </p>
                 <ul>
                     <li>
-                        <a href=""><i class="fa fa-facebook fa-2x"></i></a>
+                        <a href=""><i class="fa fa-github fa-2x"></i></a>
                     </li>
                     <li>
                         <a href=""><i class="fa fa-twitter fa-2x"></i></a>
