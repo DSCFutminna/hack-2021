@@ -23,7 +23,7 @@ h5,
 h6 {
   margin: 0 0 20px 0;
   text-transform: none;
-  color: rgba(10, 157, 88, 1);
+  color: rgba(181, 58, 37, 1);
   font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 600;
   letter-spacing: 1px;
@@ -113,9 +113,9 @@ a:hover{
 .team-member figure:hover figcaption {
   visibility: visible;
   color: #fff;
-  background:  rgba(10, 157, 88, 0.9);
+  background:  rgba(181, 58, 37, 0.9);
   /* Primary color, can be changed via colors.css */
-  
+
   height: 100%;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
